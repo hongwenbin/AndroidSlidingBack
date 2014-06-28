@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AndroidSlidingBack</name>
+	<comment></comment>
+	<projects>
+		<project>SlidingBackDemo</project>
+		<project>SlidingBackLib</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>

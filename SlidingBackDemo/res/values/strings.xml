@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingBack</string>
+    <string name="hello_world">从左往右滑动退出---Sliding out from left to right </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
